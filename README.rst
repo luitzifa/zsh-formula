@@ -18,5 +18,13 @@ Available states
 ``zsh``
 -------
 
-Install zsh
+Install zsh.
 
+``zsh.ohmyzsh``
+-------
+
+Installs `ohmyzsh <https://github.com/robbyrussell/oh-my-zsh>_`
+
+Dependencies:
+
+* `Users <https://github.com/saltstack-formulas/users-formula>`_
